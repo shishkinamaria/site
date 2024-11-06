@@ -1,0 +1,237 @@
+.body {
+    background: url('fon.jpg'); 
+    background-size: cover;
+}
+
+.table {
+    margin: auto;
+    width: 100%;
+    border-collapse: collapse;
+    background-color: DimGray;
+    text-size-adjust: 30px;
+    color: rgb(240, 236, 231);
+    
+    font-family: 'Playfair Display SC', 'Verdana', sans-serif;
+}
+
+.td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+}
+
+.tdd {
+    border: 1px solid black;
+    text-align: left;
+    padding: 10px;
+}
+
+.main {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    background-color: Gainsboro;
+    font-family: 'Lora', 'Verdana', sans-serif;
+    padding: 30px;
+}
+
+.mainmain {
+    padding: 20px;
+}
+
+.img {
+    border-radius: 15px;
+}
+
+.text {
+    text-align: right;
+}
+
+.textt {
+    text-align: left;
+}
+
+
+.image-link {
+    display: block;
+}
+
+.image-link img {
+    width: 200px; 
+    height: auto;
+}
+
+
+.modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    justify-content: center;
+    align-items: center;
+}
+
+.modal img {
+    width: 200%; 
+    height: auto;
+}
+
+.modal:target {
+    display: flex;
+}
+
+.caption {
+    text-align: center;
+    color: white;
+}
+
+.link {
+    color: white;
+}
+
+.linkk {
+    color: black;
+}
+
+.maindisco {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    background-image: url(covers/fonfon.jpg);
+    background-size: cover;
+    font-family: 'Lora', 'Verdana', sans-serif;
+    padding: 30px;
+}
+
+.sign {
+    float: left; 
+    padding: 7px; 
+    margin: 5px 0 5px 5px; 
+   }
+
+#tablepass {
+    background-image: url('pasport.jpg');
+    background-repeat: no-repeat;
+    height: 780px;
+    width: 1100px;
+    padding-top: 0%;
+}
+
+.vidan1 {
+    padding-top: 75px;
+    padding-left: 145px;
+}
+
+.vidan2 {
+    padding-top: 0px;
+    padding-left: 130px;
+    word-spacing: 0.65em;
+}
+
+.vidan3 {
+    padding-top: 0px;
+    padding-left: 120px;
+    word-spacing: 0.65em;
+    float: left;
+}
+
+.vidan4 {
+    padding-top: 15px;
+    padding-left: 370px;
+    word-spacing: 0.65em;
+}
+
+.surname {
+    padding-top: 210px;
+    padding-left: 300px;
+    word-spacing: 0.65em;
+    padding-right: 1000px;
+    padding-bottom: 0px;
+}
+
+.name {
+    padding-top: 0px;
+    padding-left: 300px;
+    word-spacing: 0.65em;
+}
+
+.otchestvo {
+    padding-top: 0px;
+    padding-left: 300px;
+    word-spacing: 0.65em;
+}
+
+.sex {
+    padding-top: 0px;
+    padding-left: 50px;
+    word-spacing: 0.65em;
+    float: left;
+}
+
+.birth {
+    padding-top: 10px;
+    padding-left: 300px;
+    word-spacing: 0.65em;
+}
+
+.city {
+    padding-top: 0px;
+    padding-left: 250px;
+    word-spacing: 0.65em;
+}
+
+.obl {
+    padding-top: 0px;
+    padding-left: 280px;
+    word-spacing: 0.65em;
+    padding-bottom: 30px;
+}
+
+.passfoto {
+    width: 120px;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-bottom: 50px;
+    float: left;
+}
+
+.scrin {
+    float: left;
+    width: 500px;
+}
+
+#container {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    
+  }
+
+label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+input[type="number"] {
+    
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+  }
+
+#result {
+    font-weight: bold;
+  }
+
+.error {
+    color: red;
+  }
