@@ -4,7 +4,7 @@
       "title": "Футболка The Beatles",
       "vendor_code": "111",
       "description": "все размеры в наличии",
-      "price": 1100 руб,
+      "price": 1100,
       "img": "tshirt.jpg"
     },
     {
@@ -12,7 +12,7 @@
       "title": "Рубашка The Beatles",
       "vendor_code": "222",
       "description": "все размеры в наличии",
-      "price": 2100 руб,
+      "price": 2100,
       "img": "shirt.jpg"
     },
     {
@@ -20,7 +20,7 @@
       "title": "Кепка The Beatles",
       "vendor_code": "333",
       "description": "единый размер",
-      "price": 500 руб,
+      "price": 500,
       "img": "hat.jpg"
     },
     {
@@ -28,7 +28,7 @@
       "title": "Термос The Beatles",
       "vendor_code": "444e",
       "description": "размер не указан",
-      "price": 800 руб,
+      "price": 800,
       "img": "termos.jpg"
     }
     ,
@@ -37,7 +37,7 @@
       "title": "Рюкзак The Beatles",
       "vendor_code": "4445e",
       "description": "единый размер",
-      "price": 3000 руб,
+      "price": 3000,
       "img": "backpack.jpg"
     },
     {
@@ -45,7 +45,7 @@
       "title": "Шарф The Beatles",
       "vendor_code": "4446e",
       "description": "единый размер",
-      "price": 1000 руб,
+      "price": 1000,
       "img": "scarf.jpg"
     }
   ]
