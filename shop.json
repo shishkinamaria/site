@@ -1,0 +1,51 @@
+[
+    {
+      "id": "1",
+      "title": "Футболка The Beatles",
+      "vendor_code": "111",
+      "description": "все размеры в наличии",
+      "price": 1100,
+      "img": "tshirt.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Рубашка The Beatles",
+      "vendor_code": "222",
+      "description": "все размеры в наличии",
+      "price": 2100,
+      "img": "../../images/uso_002.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Кепка The Beatles",
+      "vendor_code": "333",
+      "description": "единый размер",
+      "price": 500,
+      "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/uso_003.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Термос The Beatles",
+      "vendor_code": "444e",
+      "description": "размер не указан",
+      "price": 400,
+      "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/uso_004.jpg"
+    }
+    ,
+    {
+      "id": "5",
+      "title": "Рюкзак The Beatles",
+      "vendor_code": "4445e",
+      "description": "единый размер",
+      "price": 400,
+      "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/uso_005.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Шарф The Beatles",
+      "vendor_code": "4446e",
+      "description": "единый размер",
+      "price": 400,
+      "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_1.png"
+    }
+  ]
