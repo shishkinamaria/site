@@ -4,7 +4,7 @@
       "title": "Футболка The Beatles",
       "vendor_code": "111",
       "description": "все размеры в наличии",
-      "price": 1100,
+      "price": 1100 руб,
       "img": "tshirt.jpg"
     },
     {
@@ -12,24 +12,24 @@
       "title": "Рубашка The Beatles",
       "vendor_code": "222",
       "description": "все размеры в наличии",
-      "price": 2100,
-      "img": "../../images/uso_002.jpg"
+      "price": 2100 руб,
+      "img": "shirt.jpg"
     },
     {
       "id": "3",
       "title": "Кепка The Beatles",
       "vendor_code": "333",
       "description": "единый размер",
-      "price": 500,
-      "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/uso_003.jpg"
+      "price": 500 руб,
+      "img": "hat.jpg"
     },
     {
       "id": "4",
       "title": "Термос The Beatles",
       "vendor_code": "444e",
       "description": "размер не указан",
-      "price": 400,
-      "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/uso_004.jpg"
+      "price": 800 руб,
+      "img": "termos.jpg"
     }
     ,
     {
@@ -37,15 +37,15 @@
       "title": "Рюкзак The Beatles",
       "vendor_code": "4445e",
       "description": "единый размер",
-      "price": 400,
-      "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/uso_005.jpg"
+      "price": 3000 руб,
+      "img": "backpack.jpg"
     },
     {
       "id": "6",
       "title": "Шарф The Beatles",
       "vendor_code": "4446e",
       "description": "единый размер",
-      "price": 400,
-      "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_1.png"
+      "price": 1000 руб,
+      "img": "scarf.jpg"
     }
   ]
